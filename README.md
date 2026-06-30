@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Array
 |  |
 | ------- |
