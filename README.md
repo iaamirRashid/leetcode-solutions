@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0956-tallest-billboard](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0956-tallest-billboard) |
 ## Hash Table
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0956-tallest-billboard](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -83,5 +85,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
