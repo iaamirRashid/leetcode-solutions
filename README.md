@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0134-gas-station) |
 | [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
