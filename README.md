@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0841-keys-and-rooms](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -125,10 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0841-keys-and-rooms](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Graph Theory
 |  |
