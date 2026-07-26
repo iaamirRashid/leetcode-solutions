@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
+| [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0904-fruit-into-baskets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0956-tallest-billboard](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [1260-shift-2d-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
