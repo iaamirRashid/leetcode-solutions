@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0956-tallest-billboard](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0956-tallest-billboard) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Counting Sort
