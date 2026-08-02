@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0877-stone-game) |
 | [0956-tallest-billboard](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0877-stone-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0956-tallest-billboard](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0956-tallest-billboard) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -260,4 +263,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
