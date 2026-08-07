@@ -171,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 ## Graph Theory
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
