@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
 |  |
