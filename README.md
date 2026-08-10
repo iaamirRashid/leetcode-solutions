@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0279-perfect-squares) |
+| [0312-burst-balloons](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0312-burst-balloons](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
