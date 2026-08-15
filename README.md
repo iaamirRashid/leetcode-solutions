@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -368,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0202-happy-number) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
