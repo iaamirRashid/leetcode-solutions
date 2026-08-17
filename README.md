@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Game Theory
