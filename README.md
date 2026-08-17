@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0443-string-compression) |
+| [3794-reverse-string-prefix](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3794-reverse-string-prefix](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
