@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0443-string-compression) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
 | ------- |
