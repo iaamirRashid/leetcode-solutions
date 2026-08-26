@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Bit Manipulation
