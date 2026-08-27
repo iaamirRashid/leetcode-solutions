@@ -1,7 +1,6 @@
 class Solution {
     public int[][] closestK(int[][] points, int k) {
-        
-     
+    
         PriorityQueue<int[]> pq = new PriorityQueue<>(
             (a, b) -> {
                 int distA = a[0] * a[0] + a[1] * a[1];
