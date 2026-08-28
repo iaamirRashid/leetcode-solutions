@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0486-predict-the-winner](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0692-top-k-frequent-words](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
