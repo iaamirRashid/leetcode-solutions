@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
