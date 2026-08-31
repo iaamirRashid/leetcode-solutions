@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0264-ugly-number-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0264-ugly-number-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0134-gas-station) |
