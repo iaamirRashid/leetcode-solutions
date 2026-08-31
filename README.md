@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
