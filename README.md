@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -484,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->
