@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
