@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
