@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0039-combination-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0057-insert-interval) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
