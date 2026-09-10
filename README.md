@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
