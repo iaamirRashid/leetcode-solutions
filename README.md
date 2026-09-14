@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -538,4 +541,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
