@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iaamirRashid/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/iaamirRashid/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sliding Window
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iaamirRashid/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/iaamirRashid/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/iaamirRashid/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/iaamirRashid/leetcode-solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
