@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search Tree
 |  |
 | ------- |
