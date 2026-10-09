@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Binary Search Tree
 |  |
 | ------- |
