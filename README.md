@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2360-longest-cycle-in-a-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Enumeration
@@ -588,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2360-longest-cycle-in-a-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -607,4 +611,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0169-majority-element) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
