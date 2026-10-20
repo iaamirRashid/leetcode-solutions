@@ -31,8 +31,7 @@ class Solution {
         return ans;
     }
 
-    private boolean isCyclicRotation(
-        int[] nums, int[] sorted, int start, int k) {
+    private boolean isCyclicRotation(int[] nums, int[] sorted, int start, int k) {
 
         int[] lps = new int[k];
 
