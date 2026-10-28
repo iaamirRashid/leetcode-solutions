@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0078-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0078-subsets) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0338-counting-bits) |
