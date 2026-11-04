@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0886-possible-bipartition](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0886-possible-bipartition) |
 | [1020-number-of-enclaves](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0174-dungeon-game](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0835-image-overlap) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0100-same-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0508-most-frequent-subtree-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
