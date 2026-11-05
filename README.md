@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0443-string-compression) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3794-reverse-string-prefix](https://github.com/iaamirRashid/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/iaamirRashid/leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/iaamirRashid/leetcode-solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/iaamirRashid/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
