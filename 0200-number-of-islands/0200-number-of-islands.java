@@ -1,27 +1,40 @@
+import java.util.*;
+
 class Solution {
     public int numIslands(char[][] grid) {
-        if(grid.length == 0) return 0;
-         int islands = 0;
+        int n = grid.length;
+        int m = grid[0].length;
+        int count = 0;
 
-        for(int i=0; i<grid.length; i++) {
-            for(int j=0; j<grid[0].length; j++) {
-                if(grid[i][j]=='1') {
-                    dfs(grid,i,j); // 4 1 2
-                    islands++;
+        int[][] dirs = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+                if (grid[i][j] == '1') {
+                    count++;
+
+                    Queue<int[]> q = new LinkedList<>();
+                    q.add(new int[]{i, j});
+                    grid[i][j] = '0'; // push karte hi mark karo
+
+                    while (!q.isEmpty()) {
+                        int[] curr = q.poll();
+                        int r = curr[0];
+                        int c = curr[1];
+
+                        for (int[] d : dirs) {
+                            int nr = r + d[0];
+                            int nc = c + d[1];
+
+                            if (nr >= 0 && nr < n && nc >= 0 && nc < m && grid[nr][nc] == '1') {
+                                grid[nr][nc] = '0';
+                                q.add(new int[]{nr, nc});
+                            }
+                        }
+                    }
                 }
             }
         }
-        return islands;
-    }
-    void dfs(char[][] grid, int i, int j) {
-    if(i<0 || j<0 || i>grid.length-1 || j>grid[0].length-1) return;
-
-    if(grid[i][j] == '0') return;
-
-        grid[i][j] = '0';
-        dfs(grid,i+1,j);
-        dfs(grid,i-1,j);
-        dfs(grid,i,j-1);
-        dfs(grid,i,j+1);
+        return count;
     }
 }
